@@ -1,0 +1,13 @@
+---
+layout: post
+title: Brave
+date: 2014-12-12 13:32:25
+categories: quotes
+image: /assets/article_images/2014-12-12-brave/brave.jpg
+---
+
+“Because,’ she said, ‘when you’re scared but you still do it anyway, that’s brave.” 
+- [Neil Gaiman][neilgaiman], [Coraline][coraline]
+
+[neilgaiman]: http://www.neilgaiman.com/
+[coraline]: http://www.goodreads.com/work/quotes/2834844-coraline 

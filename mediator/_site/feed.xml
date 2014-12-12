@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blue Sky</title>
+    <description>You are my only witness
+</description>
+    <link>http://ankita.me/</link>
+    <atom:link href="http://ankita.me/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 12 Dec 2014 15:03:20 -0800</pubDate>
+    <lastBuildDate>Fri, 12 Dec 2014 15:03:20 -0800</lastBuildDate>
+    <generator>Jekyll v2.5.2</generator>
+    
+      <item>
+        <title>Brave</title>
+        <description>&lt;p&gt;“Because,’ she said, ‘when you’re scared but you still do it anyway, that’s brave.” 
+- &lt;a href=&quot;http://www.neilgaiman.com/&quot;&gt;Neil Gaiman&lt;/a&gt;, &lt;a href=&quot;http://www.goodreads.com/work/quotes/2834844-coraline&quot;&gt;Coraline&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 12 Dec 2014 05:32:25 -0800</pubDate>
+        <link>http://ankita.me/quotes/2014/12/12/brave.html</link>
+        <guid isPermaLink="true">http://ankita.me/quotes/2014/12/12/brave.html</guid>
+        
+        
+        <category>quotes</category>
+        
+      </item>
+    
+  </channel>
+</rss>
