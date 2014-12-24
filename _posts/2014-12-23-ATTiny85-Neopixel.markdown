@@ -19,7 +19,7 @@ If you want to do something similar and are using the Instructable link above ke
 * The ATtiny85 (internal 8 MHz clock) configuration can drive the Neopixels. Hence once you copy the attiny folder to the "hardware" directory under sketchbook (sketchbook location on my Mac is at /Users/username/Documents/Arduino), you can safely skip the instructions around editing the boards.txt file
 * Once you select your "Board" to ATtiny85 (internal 8 MHz clock) in the Arduino programming environment, don't forget to hit "Burn Bootloader". I missed doing this initially and just had 2 LEDs glowing instead of the 60!
 * For this demo I did not use the capacitor or the resistor that the instructable encourages you to use in your circuit.
-* I used the Sparkfun [Tiny AVR Programmer][avr] to programm my ATTiny85 microcontroller from the Arduino environment
+* I used the Sparkfun [Tiny AVR Programmer][avr] to program my ATTiny85 microcontroller from the Arduino environment
 * I used a 5V power supply for the circuit.
 
 ![Driver Circuit](/assets/article_images/2014-12-23-attiny1/attiny-driver-circuit.jpg)
