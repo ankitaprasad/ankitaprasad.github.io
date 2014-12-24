@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Rainbow LEDs for Christamas
+title: Rainbow LEDs for Christmas
 date: 2014-12-23 22:25:25
 categories: IoT
 ---
 
 I had an [ATtiny85][attiny] micorcontroller lying around at home since I attended a couple of circuit hacking workshops at [Double Union][du] earlier this year. The workshops were fun and got me hooked on to playing with tiny microcontrollers and making paper circuits.
 
-When a colleague at work showed me the [Adafruit Neopixel][np] a few weeks back, I got intrigued by the idea of programming these LEDs with the ATtiny85. A quick google search pointed me to a well written [Instructable][instr] on driving Neopixels using ATtiny85.
+When a colleague at work showed me the [Adafruit Neopixel][np] a few weeks back, I got intrigued by the idea of programming these LEDs with the ATtiny85. A quick google search pointed me to a well written  [Instructable][instr] on driving Neopixels using ATtiny85.
 
 Half an hour of tinkering around and refreshing my memory on how to use a breadboard ;-) and voila I had my rainbow LEDs!
 
