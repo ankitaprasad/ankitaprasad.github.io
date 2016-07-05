@@ -2,7 +2,7 @@
 layout: post
 title: Reading and Revelations
 date: 2016-07-04 22:25:25
-categories: reading
+categories: blog
 ---
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">We don&#39;t know how to measure what we care about, so we care about what we measure.</p>&mdash; Chris Dancy (@chrisdancy) <a href="https://twitter.com/chrisdancy/status/748904202504642561">July 1, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
